@@ -20,6 +20,7 @@ int helloimage(){
     else{
     return 4;
     }*/
+    //erc
     image = cvLoadImage(("/storage/emulated/0/other.jpg").c_str());
   //  image = ("/storage/emulated/0/other.jpg");
    if(!image.data )
